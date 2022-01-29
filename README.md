@@ -52,7 +52,7 @@
 
 <p align="center">
 
-<a href="linkedin.com/in/mamadou-saliou-balde-b387998a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="linkedin.com/in/mamadou-saliou-balde-b387998a"><img alt="LinkedIn" src="https://img.shields.io/badge/Balde-instagram-brightgreen"></a>
 <a href="https://www.instagram.com/mambalde/"><img alt="instagram" src="https://img.shields.io/badge/Balde-instagram-brightgreen></a>
 <a href="mailto:mambalde@naver.com"><img alt="Email" src="https://img.shields.io/badge/Balde-Email-green"></a>
 </p>
