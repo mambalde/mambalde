@@ -41,7 +41,7 @@
 
 <br/>
 
-[![Balde's GitHub stats](https://github-readme-stats.vercel.app/api?username=mambalde)](https://github.com/mambalde/github-readme-stats)
+
 <a href="https://github.com/mambalde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mambalde&theme=buefy&layout=compact" />
 </a>
