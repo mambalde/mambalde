@@ -41,10 +41,9 @@
 
 <br/>
 
-[![Balde's GitHub stats](https://github-readme-stats-ten-beta-97.vercel.app/api?username=mambalde)](https://github.com/mambalde/github-readme-stats)
-<a href="https://github.com/mambalde">
-  <img height="180em" src="https://github-readme-stats-ten-beta-97.vercel.app/api/top-langs/?username=mambalde&theme=buefy&layout=compact" />
-</a>
+[![Balde's GitHub stats](https://github-readme-stats-ten-beta-97.vercel.app/api?username=mambalde&show_icons=true&include_all_commits=true&rank_icon=github)](https://github.com/mambalde/github-readme-stats)
+
+![Top Langs](https://github-readme-stats-ten-beta-97.vercel.app/api/top-langs/?username=mambalde&size_weight=1&count_weight=1&layout=compact&langs_count=10)
 
 <br/>
 
